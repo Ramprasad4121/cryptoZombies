@@ -1,11 +1,10 @@
 # CryptoZombies
-
 This repository contains the code I developed while learning Solidity through the CryptoZombies tutorial. The project focuses on building a Zombie Factory game on Ethereum, where I explored the basics of smart contract development, including creating and managing zombie characters.
 
-## Overview
-- **Purpose:** Learn Solidity by building a fun, interactive game.
-- **Main Features:** Create and manage zombies using smart contracts.
-- **Technologies:** Solidity, Ethereum, Truffle.
+# Overview
+- Purpose: Learn Solidity by building a fun, interactive game.
+- Main Features: Create and manage zombies using smart contracts.
+- Technologies: Solidity, Ethereum, Truffle.
 
 ## Getting Started
 To run the project locally:
